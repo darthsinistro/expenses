@@ -1,0 +1,1482 @@
+"","Month","date","numeric","type","comment"
+"37","Jan",2014-01-01,300,"Grooming","Rahul:
+Past Shave=30
+Haircut=40
+Hair Spa=230"
+"41","Jan",2014-01-05,60,"Health and Hygeine","Rahul:
+Azithromycin=60"
+"42","Jan",2014-01-09,140,"Health and Hygeine","Rahul:
+Papulex=140"
+"43","Jan",2014-01-10,125,"Health and Hygeine","Rahul:
+Face gel=125"
+"44","Jan",2014-01-11,150,"Health and Hygeine","Rahul:
+Acne Aid=150"
+"45","Jan",2014-01-21,109,"Health and Hygeine","Rahul:
+Toothpaste=109"
+"46","Jan",2014-01-22,10,"Health and Hygeine","Rahul:
+Dahi=10"
+"47","Jan",2014-01-23,252,"Health and Hygeine","Rahul:
+Chyavanprash, Shampoo and Soap"
+"48","Jan",2014-01-28,20,"Health and Hygeine","Rahul:
+Bicasol=20"
+"52","Jan",2014-01-01,80,"Snack","Rahul:
+Honey Chilli Potato=80"
+"53","Jan",2014-01-02,10,"Snack","Rahul:
+Bread Pakoda=10"
+"54","Jan",2014-01-03,17,"Snack","Rahul:
+Tea=7
+Bread Pakoda=10"
+"55","Jan",2014-01-04,23,"Snack","Rahul:
+My tea=8
+Aaloo Patty=15"
+"56","Jan",2014-01-06,50,"Snack","Rahul:
+Tea=8
+Biscuit=22
+Momos=20"
+"57","Jan",2014-01-07,11,"Snack","Rahul:
+Tea=1
+Break Pakoda=10"
+"58","Jan",2014-01-08,10,"Snack","Rahul:
+Tea=7"
+"59","Jan",2014-01-09,30,"Snack","Rahul:
+Tea=10
+Patty=20"
+"60","Jan",2014-01-10,50,"Snack","Rahul:
+Tea=10
+Pakoda=10
+Sambhar Wada=30"
+"61","Jan",2014-01-13,40,"Snack","Rahul:
+Kachodi=25
+Galaxy chocolate=15"
+"62","Jan",2014-01-14,15,"Snack","Rahul:
+Juice=15"
+"63","Jan",2014-01-15,10,"Snack","Rahul:
+Bread Pakoda=10"
+"64","Jan",2014-01-19,20,"Snack","Rahul:
+Bread Pakoda=10
+Chocolate=10"
+"65","Jan",2014-01-20,77,"Snack","Rahul:
+Tea=10
+Samosa x2=12
+Chicken roll=55"
+"66","Jan",2014-01-21,105,"Snack","Rahul:
+Chicken Sandwich=105"
+"68","Jan",2014-01-23,17,"Snack","Rahul:
+Kachodi=13
+Fallero=4"
+"69","Jan",2014-01-24,28,"Snack","Rahul:
+Tea=8
+Biscuit=20"
+"71","Jan",2014-01-27,45,"Snack","Rahul:
+Tea=10
+Chat Papdi=35"
+"72","Jan",2014-01-29,35,"Snack","Rahul:
+Tea=10
+Kachodi=25"
+"73","Jan",2014-01-30,35,"Snack","Rahul:
+Tea=10
+Kachodi=25"
+"77","Jan",2013-12-31,800,"Socializing","Rahul:
+Fatehpur Sikri Tour=500
+Resteraunt Bill=300"
+"78","Jan",2014-01-01,1120,"Socializing","Rahul:
+Handicraft for Hanna=1120"
+"79","Jan",2014-01-03,120,"Socializing","Rahul:
+Puneet Pakoda=50
+Soup=70"
+"80","Jan",2014-01-04,8,"Socializing","Rahul:
+Nigar's tea=8"
+"82","Jan",2014-01-12,352,"Socializing","Rahul:
+Ice Cream for Das=352"
+"87","Jan",2014-01-26,500,"Socializing","Rahul:
+With Namamee and Tino @ Barista=~500"
+"91","Jan",2014-01-02,5,"Tau","Rahul:
+Vicks=5"
+"92","Jan",2014-01-06,54,"Tau","Rahul:
+Dal Makhani and 4 roti=54"
+"94","Jan",2014-01-21,5,"Tau","Rahul:
+Mixture=5"
+"95","Jan",2014-01-22,20,"Tau","Rahul:
+Haldiram's Baked chips=20"
+"96","Jan",2014-01-23,46,"Tau","Rahul:
+Dal Makhani and 4 butter roti=46"
+"97","Jan",2014-01-27,10,"Tau","Rahul:
+Mixture=10"
+"98","Jan",2014-01-29,10,"Tau","Rahul:
+Mixture=10"
+"102","Jan",2013-12-31,80,"Misc","Rahul:
+Tip to Agra=50
+Tip from Agra=30"
+"103","Jan",2014-01-05,100,"Misc","Rahul:
+Petrol in scooter=100"
+"104","Jan",2014-01-15,20,"Misc","Rahul:
+Box=10
+Water Bottle=10"
+"109","Jan",2014-01-27,100,"Misc","Rahul:
+Papa internet=100"
+"113","Jan",2014-01-03,50,"NA Meeting","Rahul:
+Survivors=50"
+"114","Jan",2014-01-05,100,"NA Meeting","Rahul:
+BOR=50
+ASC meeting=50"
+"115","Jan",2014-01-12,50,"NA Meeting","Rahul:
+SVP meeting=50"
+"116","Jan",2014-01-14,50,"NA Meeting","Rahul:
+BOR=50"
+"117","Jan",2014-01-16,200,"NA Meeting","Rahul:
+Convention Kitty=200"
+"122","Jan",2014-01-26,50,"NA Meeting","Rahul:
+BOR=50"
+"123","Jan",2014-01-28,50,"NA Meeting","Rahul:
+Survivors=50"
+"131","Jan",2014-01-28,60,"After Meeting","Rahul:
+Gol Gappas and Aaloo=60"
+"135","Jan",2013-12-31,100,"Transport","Rahul:
+Tip to Driver=100"
+"136","Jan",2014-01-01,10,"Transport","Rahul:
+Bus to MC=10"
+"137","Jan",2014-01-05,15,"Transport","Rahul:
+Bus from BKP to MC=15"
+"138","Jan",2014-01-12,10,"Transport","Rahul:
+Bus to SVP=10"
+"139","Jan",2014-01-15,245,"Transport","Rahul:
+Metro Recharge=100
+Train to Ramnagar=75
+Auto to Wild Crest=70"
+"140","Jan",2014-01-19,320,"Transport","Rahul:
+Car to Ramnagar=100
+Train to Delhi=80
+Auto to UN=100
+Bus to Bmom=10
+Auto to Ring Road=10
+Car to MC=20"
+"145","Jan",2014-01-28,100,"Transport","Rahul:
+Metro recharge=100"
+"149","Jan",2014-01-01,110,"Lending","Rahul:
+To Puneet=110"
+"150","Jan",2014-01-09,-500,"Lending","Rahul:
+Borrowed from Ashok=-500"
+"151","Jan",2014-01-10,500,"Lending","Rahul:
+Returned to Ashok=500"
+"152","Jan",2014-01-11,-500,"Lending","Rahul:
+Borrowed from Karan=-500"
+"153","Jan",2014-01-12,-500,"Lending","Rahul:
+Borrowed from Deepak=-500"
+"154","Jan",2014-01-13,500,"Lending","Rahul:
+Returned to Deepak=500"
+"155","Jan",2014-01-14,500,"Lending","Rahul:
+Returned to Karan=500"
+"159","Jan",2014-01-11,60,"Food","Rahul:
+Food=40
+Cake=20"
+"160","Jan",2014-01-12,35,"Food","Rahul:
+Juice=20
+Chowmein=15"
+"161","Jan",2014-01-13,50,"Food","Rahul:
+Lunch=50"
+"162","Jan",2014-01-15,214,"Food","Rahul:
+Paneer Pakoda=30
+Lemon Drink=20
+McDonalds=164"
+"163","Jan",2014-01-21,60,"Food","Rahul:
+Food=45
+Gulab Jamun=15"
+"164","Jan",2014-01-24,35,"Food","Rahul:
+Lunch@cafe=35"
+"165","Jan",2014-01-25,40,"Food","Rahul:
+Food=40"
+"166","Jan",2014-01-26,130,"Food","Rahul:
+Butter Chicken and Naan=130"
+"167","Jan",2014-01-27,45,"Food","Rahul:
+Lunch@cafe=45"
+"171","Jan",2014-01-11,130,"Leisure","Rahul:
+Chicken=130"
+"172","Jan",2014-01-14,555,"Leisure","Rahul:
+Rich Dad books=555"
+"173","Jan",2014-01-28,140,"Leisure","Rahul:
+Sundae at CCD=140"
+"35","Feb",2014-02-02,145,"Grooming","Rahul:
+Vest=145"
+"36","Feb",2014-02-08,300,"Grooming","Rahul:
+Shirt fitting=300"
+"371","Feb",2014-02-20,23,"Grooming","Rahul:
+Soap=23"
+"411","Feb",2014-02-07,55,"Health and Hygeine","Rahul:
+Antibiotics=55"
+"421","Feb",2014-02-09,620,"Health and Hygeine","Rahul:
+Medical Tests=620"
+"431","Feb",2014-02-10,246,"Health and Hygeine","Rahul:
+Medicines=246"
+"441","Feb",2014-02-14,52,"Health and Hygeine","Rahul:
+Cough Syrup=50
+Deriphyllin=2"
+"451","Feb",2014-02-15,175,"Health and Hygeine","Rahul:
+Medicines=175"
+"461","Feb",2014-02-16,180,"Health and Hygeine","Rahul:
+Sinarest=30
+Acne aid=150"
+"471","Feb",2014-02-19,50,"Health and Hygeine","Rahul:
+Syrup=50"
+"481","Feb",2014-02-25,95,"Health and Hygeine","Rahul:
+Septilin=95"
+"521","Feb",2014-01-31,40,"Snack","Rahul:
+Tea=10
+Sambhar Wada=30"
+"531","Feb",2014-02-01,20,"Snack","Rahul:
+Chicken Soup for me and Beggar=10+10"
+"541","Feb",2014-02-03,10,"Snack","Rahul:
+Chicken Soup=25"
+"551","Feb",2014-02-04,195,"Snack","Rahul:
+Tandoori Chicken=130
+White KitKat=65"
+"561","Feb",2014-02-07,40,"Snack","Rahul:
+Finger chips=40"
+"571","Feb",2014-02-08,164,"Snack","Rahul:
+Starbucks Lattee=164"
+"581","Feb",2014-02-10,10,"Snack","Rahul:
+Tea=10"
+"591","Feb",2014-02-12,30,"Snack","Rahul:
+Dal Mix=10
+C. Momos=20"
+"601","Feb",2014-02-13,10,"Snack","Rahul:
+Tea=10"
+"611","Feb",2014-02-14,10,"Snack","Rahul:
+Tea=10"
+"621","Feb",2014-02-15,30,"Snack","Rahul:
+Half burger=20
+Ch. Soup=10"
+"631","Feb",2014-02-17,85,"Snack","Rahul:
+Choclate=35
+Kachodi=25
+Pastry=25"
+"641","Feb",2014-02-19,41,"Snack","Rahul:
+Tea=10
+Mixture=10
+Samosas=16
+Hajmola=5"
+"651","Feb",2014-02-20,55,"Snack","Rahul:
+Tea=10
+Haldiram Chips=20
+Maggi=25"
+"661","Feb",2014-02-21,40,"Snack","Rahul:
+Tea=10
+Fun Flips=10
+Sandwich=20"
+"67","Feb",2014-02-22,25,"Snack","Rahul:
+Kachodi=25"
+"681","Feb",2014-02-23,30,"Snack","Rahul:
+Kulche Roll=10
+Orange Juice=20"
+"691","Feb",2014-02-24,40,"Snack","Rahul:
+Juice=20
+Ch. Momos=20"
+"70","Feb",2014-02-26,40,"Snack","Rahul:
+Ch. Patty=20
+Tea=10
+Peanuts=10"
+"711","Feb",2014-02-27,58,"Snack","Rahul:
+Ch. Patty=20
+Tea=8
+Sambhar Wada=30"
+"76","Feb",2014-02-07,40,"Socializing","Rahul:
+For Ashish=40"
+"771","Feb",2014-02-10,165,"Socializing","Rahul:
+Paranthas with Viji=35
+Shawarma with Viji=120
+Tip=10"
+"821","Feb",2014-02-25,87,"Socializing","Rahul:
+Tea for Deepak, Das and me=27
+Grapes for Amitabh=60"
+"83","Feb",2014-02-27,8,"Socializing","Rahul:
+Tea for Puru=8"
+"871","Feb",2014-02-01,50,"Tau","Rahul:
+Dal Makhani and 5 Butter Roti=50"
+"90","Feb",2014-02-22,100,"Tau","Rahul:
+Dal Makhani, 2 plain roti and 2 butter roti+1 Marbels. Paid 100, will take back remaining later"
+"941","Feb",2014-02-01,40,"Misc","Rahul:
+Keenu for Mom=40"
+"951","Feb",2014-02-08,150,"Misc","Rahul:
+Meetup=150"
+"971","Feb",2014-02-21,12,"Misc","Rahul:
+Adapter=12"
+"1031","Feb",2014-02-02,40,"NA Meeting","Rahul:
+ASC=40"
+"1041","Feb",2014-02-03,20,"NA Meeting","Rahul:
+Darkness to light=20"
+"105","Feb",2014-02-04,20,"NA Meeting","Rahul:
+BOR=20"
+"106","Feb",2014-02-06,20,"NA Meeting","Rahul:
+BOR=20"
+"107","Feb",2014-02-07,20,"NA Meeting","Rahul:
+Survivors=20"
+"108","Feb",2014-02-11,20,"NA Meeting","Rahul:
+Survivors=20"
+"1091","Feb",2014-02-16,20,"NA Meeting","Rahul:
+SVP meeting=20"
+"110","Feb",2014-02-18,20,"NA Meeting","Rahul:
+Survivors=20"
+"1141","Feb",2014-02-23,3,"NA Meeting","Rahul:
+SVP=3"
+"1151","Feb",2014-02-25,3,"NA Meeting","Rahul:
+Survivors=3"
+"119","Feb",2014-02-02,15,"After Meeting","Rahul:
+Tea @ BOR=15"
+"127","Feb",2014-02-01,15,"Transport","Rahul:
+Bus from NP to UN=15"
+"128","Feb",2014-02-03,25,"Transport","Rahul:
+Bus from UN to MC=25"
+"129","Feb",2014-02-04,71,"Transport","Rahul:
+Auto to work=56
+Bus to Rajouri=15"
+"130","Feb",2014-02-06,100,"Transport","Rahul:
+Metro Recharge=100"
+"1311","Feb",2014-02-09,145,"Transport","Rahul:
+Metro Recharge=100
+Auto t/f Comic Con=45"
+"132","Feb",2014-02-10,40,"Transport","Rahul:
+Auto=60(-20)"
+"133","Feb",2014-02-16,100,"Transport","Rahul:
+Metro Recharge=100"
+"1371","Feb",2014-02-23,100,"Transport","Rahul:
+Metro Recharge=100"
+"1381","Feb",2014-02-25,20,"Transport","Rahul:
+Bus to Jama Masjid=20"
+"142","Feb",2014-01-31,-1000,"Lending","Rahul:
+From Harjog=-1000"
+"143","Feb",2014-02-01,-3500,"Lending","Rahul:
+From Landlord=-3500"
+"144","Feb",2014-02-15,200,"Lending","Rahul:
+To Akhil=200"
+"1451","Feb",2014-02-20,150,"Lending","Rahul:
+Returned by Akhil=-200
+Given to Mudit=350"
+"146","Feb",2014-02-21,-350,"Lending","Rahul:
+Borrowed from Deepak=-200
+Returned by Mudit=-350
+Returned to Deepak=200"
+"1501","Feb",2014-02-04,70,"Food","Rahul:
+Lunch under MC metro=70"
+"1511","Feb",2014-02-05,20,"Food","Rahul:
+Maggi-20
+Top Ramen-20"
+"1521","Feb",2014-02-11,10,"Food","Rahul:
+5 x Parle G(2 rs pack)=10"
+"1531","Feb",2014-02-12,15,"Food","Rahul:
+Jalebi=15"
+"1541","Feb",2014-02-14,100,"Food","Rahul:
+Lunch@cafe=100"
+"1551","Feb",2014-02-15,35,"Food","Rahul:
+Lunch@cafe=35"
+"1591","Feb",2014-02-02,400,"Leisure","Rahul:
+Sex=300+100"
+"40","Mar",2014-03-02,360,"Health and Hygeine","Rahul:
+Medicines=360"
+"412","Mar",2014-03-10,93,"Health and Hygeine","Rahul:
+Soap=37
+Levocetrazine=56"
+"422","Mar",2014-03-14,105,"Health and Hygeine","Rahul:
+Septilin=105"
+"462","Mar",2014-02-28,30,"Snack","Rahul:
+Tea=10
+Ch. Patty=20"
+"472","Mar",2014-03-01,90,"Snack","Rahul:
+Haldiram=20
+Mango toffee=5
+Ch. Sandwich=40
+Milk Smoothie=25"
+"482","Mar",2014-03-03,13,"Snack","Rahul:
+Sambhar Idli=13"
+"49","Mar",2014-03-05,47,"Snack","Rahul:
+Ch. Patty=20
+Tea=10
+Extra=7
+Haldiram Mix=10"
+"50","Mar",2014-03-06,30,"Snack","Rahul:
+Tea=10
+Ch. Patty=20"
+"51","Mar",2014-03-07,30,"Snack","Rahul:
+Tea=10
+Ch. Patty=20"
+"522","Mar",2014-03-10,41,"Snack","Rahul:
+Remaining Tea=1
+Ch. Patty=20
+Juice=20"
+"532","Mar",2014-03-11,20,"Snack","Rahul:
+Patty=20"
+"542","Mar",2014-03-13,20,"Snack","Rahul:
+Ch. Patty=20"
+"552","Mar",2014-03-14,35,"Snack","Rahul:
+Ch. Patty=20
+Tea=10
+Peanuts=5"
+"562","Mar",2014-03-15,40,"Snack","Rahul:
+Tea=10
+Ch. Patty=20
+Juice=10"
+"572","Mar",2014-03-16,50,"Snack","Rahul:
+Chicken roll=50"
+"582","Mar",2014-03-18,65,"Snack","Rahul:
+Tea=10
+Ch. Patty=20
+Chilli Potato=35"
+"592","Mar",2014-03-20,40,"Snack","Rahul:
+Chilli Mushroon=40"
+"602","Mar",2014-03-21,45,"Snack","Rahul:
+Ch. Patty=20
+Choclate Smoothie=25"
+"612","Mar",2014-03-22,10,"Snack","Rahul:
+Bhujia=10"
+"632","Mar",2014-03-24,28,"Snack","Rahul:
+Kathi Roll=28"
+"642","Mar",2014-03-25,30,"Snack","Rahul:
+Ch. Patty=20
+Tea=10"
+"652","Mar",2014-03-26,30,"Snack","Rahul:
+Ch. Patty=20
+Tea=10"
+"662","Mar",2014-03-27,30,"Snack","Rahul:
+Ch. Patty=20
+Tea=10"
+"671","Mar",2014-03-28,20,"Snack","Rahul:
+Ch. Patty=20"
+"682","Mar",2014-03-29,30,"Snack","Rahul:
+Ch. Patty=20
+Tea=10"
+"721","Mar",2014-03-02,35,"Socializing","Rahul:
+Coke with Ashish=35"
+"731","Mar",2014-03-04,40,"Socializing","Rahul:
+Melon for Amitabh=40
+(20 remaining)"
+"75","Mar",2014-03-11,60,"Socializing","Rahul:
+Amitabh Rasberry=60"
+"761","Mar",2014-03-12,125,"Socializing","Rahul:
+Lunch with Girls=125"
+"772","Mar",2014-03-13,10,"Socializing","Rahul:
+Suraj Cigarette=10"
+"781","Mar",2014-03-15,55,"Socializing","Rahul:
+Coke and Honey Chilli Porato=55"
+"791","Mar",2014-03-16,280,"Socializing","Rahul:
+Johnson's Baby Kit=280"
+"801","Mar",2014-03-17,50,"Socializing","Rahul:
+Holi Color=50"
+"81","Mar",2014-03-18,90,"Socializing","Rahul:
+Shivani, Shavy and Swati=90"
+"84","Mar",2014-03-22,70,"Socializing","Rahul:
+Cakes, choclates and tea=70"
+"89","Mar",2014-03-10,20,"Tau","Rahul:
+Haldiram for Sheena=20"
+"961","Mar",2014-03-01,1449,"Misc","Rahul:
+Earphones=349
+Dad=1100"
+"972","Mar",2014-03-04,2,"Misc","Rahul:
+Water=2"
+"981","Mar",2014-03-11,60,"Misc","Rahul:
+Papa Masala=60"
+"1061","Mar",2014-03-02,35,"NA Meeting","Rahul:
+BOR=20
+ASC meeting=15"
+"1071","Mar",2014-03-04,4,"NA Meeting","Rahul:
+Survivors=4"
+"1081","Mar",2014-03-08,20,"NA Meeting","Rahul:
+Chetna=20"
+"1092","Mar",2014-03-09,10,"NA Meeting","Rahul:
+BOR=10"
+"1101","Mar",2014-03-11,20,"NA Meeting","Rahul:
+Survivors=20"
+"111","Mar",2014-03-16,18,"NA Meeting","Rahul:
+BOR=18"
+"112","Mar",2014-03-17,50,"NA Meeting","Rahul:
+Samarpan=50"
+"1131","Mar",2014-03-19,20,"NA Meeting","Rahul:
+Survivors=20"
+"1171","Mar",2014-03-23,30,"NA Meeting","Rahul:
+BOR=20
+SVP=10"
+"118","Mar",2014-03-30,38,"NA Meeting","Rahul:
+BOR=18
+SVP=20"
+"1221","Mar",2014-03-08,100,"After Meeting","Rahul:
+Pakodas with Sukhen=100"
+"1231","Mar",2014-03-17,20,"After Meeting","Rahul:
+Bingo with Bhanu=20"
+"1312","Mar",2014-03-02,100,"Transport","Rahul:
+Metro Recharge=100"
+"1321","Mar",2014-03-04,5,"Transport","Rahul:
+Bus from DLF Ph V to Skiandarpur=5"
+"1331","Mar",2014-03-08,55,"Transport","Rahul:
+Me and Vivek to ITO=30
+Bus from ITO=10
+Bus to CP=15"
+"134","Mar",2014-03-09,26,"Transport","Rahul:
+Bus to BOR=10
+Bus to MC=15+1"
+"1351","Mar",2014-03-11,100,"Transport","Rahul:
+Metro Recharge=100"
+"1361","Mar",2014-03-16,100,"Transport","Rahul:
+Metro Recharge=100"
+"1372","Mar",2014-03-19,250,"Transport","Rahul:
+Bus to Dwarka=25
+Auto to Chhatarpur=225"
+"1382","Mar",2014-03-20,30,"Transport","Rahul:
+Bus to Abacus=15
+Bus from Abacus=15"
+"1391","Mar",2014-03-21,-14,"Transport","Rahul:
+Returned by Vivek for his us fare=-14"
+"1401","Mar",2014-03-22,20,"Transport","Rahul:
+Bus to Delhi Gate=10
+Bus from Delhi Gate=10"
+"141","Mar",2014-03-23,100,"Transport","Rahul:
+Metro recharge=100"
+"1421","Mar",2014-03-30,30,"Transport","Rahul:
+Bus to AIIMS=15
+Bus to HK=5
+Bus to Puneet's=10"
+"1461","Mar",2014-03-04,-10,"Lending","Rahul:
+Borrowed from Kunal=-10"
+"147","Mar",2014-03-13,-700,"Lending","Rahul:
+Returned by Suraj=-700"
+"1512","Mar",2014-02-28,60,"Food","Rahul:
+Lunch@cafe=60"
+"1522","Mar",2014-03-01,40,"Food","Rahul:
+Rajma Chawal=40"
+"1532","Mar",2014-03-06,271,"Food","Rahul:
+Food@Buddy's=271"
+"1542","Mar",2014-03-11,60,"Food","Rahul:
+Chhole Bhature=40
+Shikanji=20"
+"1552","Mar",2014-03-13,45,"Food","Rahul:
+Lunch@Tau Dhaba=45"
+"156","Mar",2014-03-14,15,"Food","Rahul:
+Jalebi=15"
+"157","Mar",2014-03-18,45,"Food","Rahul:
+Dal Makhani and Roti=45"
+"158","Mar",2014-03-20,45,"Food","Rahul:
+Dal Makhani and Roti=45"
+"1592","Mar",2014-03-22,45,"Food","Rahul:
+Kachodi=25
+Milk=20"
+"1601","Mar",2014-03-28,55,"Food","Rahul:
+Food@Dhaba=55"
+"1611","Mar",2014-03-29,45,"Food","Rahul:
+Food@Dhaba"
+"1651","Mar",2014-03-07,325,"Leisure","Rahul:
+300 2=325"
+"1661","Mar",2014-03-12,150,"Leisure","Rahul:
+CCD Sundae=150"
+"361","Apr",2014-03-31,30,"Grooming","Rahul:
+Trimming=30"
+"372","Apr",2014-04-09,30,"Grooming","Rahul:
+Trimming=30"
+"38","Apr",2014-04-16,780,"Grooming","Rahul S:
+Deo=200
+Socks=360
+Underwear=160
+Shave=60"
+"39","Apr",2014-04-28,50,"Grooming","Rahul S:
+Shave=50"
+"432","Apr",2014-04-03,37,"Health and Hygeine","Rahul:
+Soap=37"
+"442","Apr",2014-04-16,105,"Health and Hygeine","Rahul S:
+Septilin=105"
+"452","Apr",2014-04-22,38,"Health and Hygeine","Rahul S:
+Dettol Classic=37
+Vicks=1"
+"463","Apr",2014-04-24,100,"Health and Hygeine","Rahul S:
+Acne-aid soap=100"
+"501","Apr",2014-04-02,5,"Snack","Rahul:
+Toffee=5"
+"511","Apr",2014-04-03,10,"Snack","Rahul:
+Dal mix=10"
+"523","Apr",2014-04-04,40,"Snack","Rahul:
+Milk=20
+Ch. Patty=20"
+"533","Apr",2014-04-05,85,"Snack","Rahul:
+Kachodi=25
+Mango Shake=25
+Limca=35"
+"543","Apr",2014-04-07,30,"Snack","Rahul:
+Bingo=10
+Choclate=20"
+"553","Apr",2014-04-08,45,"Snack","Rahul:
+Ic-cream with Ashok=45"
+"563","Apr",2014-04-09,25,"Snack","Rahul:
+Mango Shake=25"
+"573","Apr",2014-04-10,10,"Snack","Rahul:
+Chocolate=10"
+"583","Apr",2014-04-11,30,"Snack","Rahul:
+Veg Chowmein=30"
+"593","Apr",2014-04-12,10,"Snack","Rahul S:
+Navratan Mix=10"
+"603","Apr",2014-04-14,30,"Snack","Rahul S:
+Coconut Water=30"
+"613","Apr",2014-04-15,30,"Snack","Rahul S:
+Ice-cream=30"
+"622","Apr",2014-04-16,30,"Snack","Rahul S:
+Kurkure=10
+5 Star for Deepak=20"
+"633","Apr",2014-04-18,50,"Snack","Rahul S:
+Senor Pepito=50"
+"663","Apr",2014-04-24,100,"Snack","Rahul S:
+Chowmein by Bahadur=100"
+"672","Apr",2014-04-25,20,"Snack","Rahul S:
+Kachodi=20"
+"683","Apr",2014-04-30,80,"Snack","Rahul S:
+Chips=20
+Milk=20
+Chowmein=40"
+"722","Apr",2014-04-03,170,"Socializing","Rahul:
+Harshita Mazaa=20
+Jogi Mushroom=150"
+"74","Apr",2014-04-06,70,"Socializing","Rahul:
+Dounut=70"
+"751","Apr",2014-04-08,160,"Socializing","Rahul:
+Pudding w/Amitabh=140
+Pinaple w/Viv=20"
+"762","Apr",2014-04-12,60,"Socializing","Rahul S:
+With Mudit=60"
+"782","Apr",2014-04-21,66,"Socializing","Rahul S:
+Snack with Bhupi=66"
+"802","Apr",2014-04-23,204,"Socializing","Rahul S:
+Burgers with Rohit=164
+Chocolate=40"
+"811","Apr",2014-04-27,220,"Socializing","Rahul S:
+Pizza with Gautam=220"
+"911","Apr",2014-04-06,305,"Misc","Rahul:
+Earphones=305"
+"921","Apr",2014-04-10,50,"Misc","Rahul:
+To Babban=50"
+"93","Apr",2014-04-19,230,"Misc","Rahul S:
+Tire Tube=130
+Petrol=100"
+"942","Apr",2014-04-20,10,"Misc","Rahul S:
+Dhobi=10"
+"973","Apr",2014-04-23,-890,"Misc","Rahul S:
+By Dad for B'day=-1000
+To Pizza guy=10
+To Dad=100"
+"982","Apr",2014-04-28,20,"Misc","Rahul S:
+Shoe repair=20"
+"1021","Apr",2014-04-02,20,"NA Meeting","Rahul:
+Survivors=20"
+"1032","Apr",2014-04-06,20,"NA Meeting","Rahul:
+BOR=20
+ASC=20"
+"1042","Apr",2014-04-08,920,"NA Meeting","Rahul:
+Survivors celebration=920"
+"1051","Apr",2014-04-13,20,"NA Meeting","Rahul S:
+SVP=20"
+"1062","Apr",2014-04-18,10,"NA Meeting","Rahul S:
+Survivors=10"
+"1072","Apr",2014-04-20,67,"NA Meeting","Rahul S:
+Bonds of Recovery=50
+Down to Earth=17"
+"1093","Apr",2014-04-22,10,"NA Meeting","Rahul S:
+Survivors=10"
+"1111","Apr",2014-04-24,10,"NA Meeting","Rahul S:
+BOR=10"
+"1121","Apr",2014-04-27,30,"NA Meeting","Rahul S:
+BOR=30"
+"1132","Apr",2014-04-28,7,"NA Meeting","Rahul S:
+St Columbas=7"
+"1172","Apr",2014-04-12,100,"After Meeting","Rahul S:
+Butterscotch Shake=100"
+"125","Apr",2014-03-31,10,"Transport","Rahul:
+Auto to Puneet's=10"
+"126","Apr",2014-04-01,5,"Transport","Rahul:
+Bus to AIIMS=5"
+"1271","Apr",2014-04-02,25,"Transport","Rahul:
+Auto to metro=10
+Bus to NP=15"
+"1281","Apr",2014-04-03,53,"Transport","Rahul:
+Auto to work=53"
+"1291","Apr",2014-04-05,120,"Transport","Rahul:
+Bus to LNH=10
+Bus from LNH=10
+Metro recharge=100"
+"1301","Apr",2014-04-06,10,"Transport","Rahul:
+Bus to BOR=10"
+"1313","Apr",2014-04-10,100,"Transport","Rahul:
+Metro Recharge=100"
+"1322","Apr",2014-04-11,30,"Transport","Rahul:
+Bus to Sec1=15
+Bus from Sec1=15"
+"1332","Apr",2014-04-12,100,"Transport","Rahul S:
+Metro Recharge=100"
+"1341","Apr",2014-04-13,5,"Transport","Rahul S:
+Bus from Ansal Plaza=5"
+"1352","Apr",2014-04-14,45,"Transport","Rahul S:
+Bus to DW1=25
+Rickswaw to work=20"
+"1362","Apr",2014-04-15,40,"Transport","Rahul S:
+Bus to work=25
+Bus from work=15"
+"1373","Apr",2014-04-16,30,"Transport","Rahul S:
+Bus to Work=15
+Bus from Work=15"
+"1383","Apr",2014-04-17,45,"Transport","Rahul S:
+Bus to work=15
+Bus to UN=15
+Bus to Home=15"
+"1392","Apr",2014-04-18,30,"Transport","Rahul S:
+Bus to Work=15
+Bus from Work=15"
+"1402","Apr",2014-04-19,35,"Transport","Rahul S:
+Bus to Work=25
+Bus to UN=10"
+"1411","Apr",2014-04-20,15,"Transport","Rahul S:
+Bus to GAIL=15"
+"1422","Apr",2014-04-21,30,"Transport","Rahul S:
+Bus to Work=15
+Bus from Work=15"
+"1431","Apr",2014-04-22,40,"Transport","Rahul S:
+Bus to Work=25
+Bus from work=15"
+"1441","Apr",2014-04-23,35,"Transport","Rahul S:
+Bus to Work=15
+Rickshaw to work=20"
+"1452","Apr",2014-04-24,25,"Transport","Rahul S:
+Bus to Work=10
+Bus from Work=15"
+"1462","Apr",2014-04-25,15,"Transport","Rahul S:
+Bus to work=15"
+"1471","Apr",2014-04-26,50,"Transport","Rahul S:
+Bus pass=50"
+"148","Apr",2014-04-29,15,"Transport","Rahul S:
+Bus from work=15"
+"1491","Apr",2014-04-30,30,"Transport","Rahul S:
+Bus to work=15
+Bus to home=15"
+"1533","Apr",2014-03-31,-100,"Lending","Rahul:
+Borrowed from Deepak=-100"
+"1543","Apr",2014-04-04,100,"Lending","Rahul:
+Returned to Deepak=100"
+"1553","Apr",2014-04-10,50,"Lending","Rahul:
+Returned to Mom=50"
+"1561","Apr",2014-04-12,100,"Lending","Rahul S:
+Returned to Keshav=100"
+"1571","Apr",2014-04-19,-270,"Lending","Rahul S:
+Borrowed from Chachu for Meds=270"
+"1581","Apr",2014-04-30,770,"Lending","Rahul S:
+Returned to Chachu=270
+Lent to Shradha=500"
+"1621","Apr",2014-04-01,45,"Food","Rahul:
+Lunch=45"
+"1631","Apr",2014-04-02,85,"Food","Rahul:
+B'fast=40
+Lunch=45"
+"1641","Apr",2014-04-05,40,"Food","Rahul:
+Lunch=40"
+"1652","Apr",2014-04-17,90,"Food","Rahul S:
+Thali@lunch=90"
+"1662","Apr",2014-04-19,30,"Food","Rahul S:
+Lunch=30"
+"1671","Apr",2014-04-22,30,"Food","Rahul S:
+Lunch=30"
+"168","Apr",2014-04-26,70,"Food","Rahul S:
+B'fast=70"
+"169","Apr",2014-04-29,10,"Food","Rahul S:
+Lunch=10"
+"362","May",2014-05-20,60,"Grooming","Rahul S:
+Soap=60"
+"401","May",2014-05-05,21,"Health and Hygeine","Rahul S:
+Bicasules=21"
+"443","May",2014-05-01,60,"Snack","Rahul S:
+Chips=10
+Kachodi=20
+Juice=30"
+"453","May",2014-05-02,15,"Snack","Rahul S:
+Chocolate=15"
+"464","May",2014-05-04,10,"Snack","Rahul S:
+Chane=10"
+"473","May",2014-05-08,40,"Snack","Rahul S:
+Chane=30
+Remaining=10"
+"483","May",2014-05-09,15,"Snack","Rahul S:
+Lassi=15"
+"491","May",2014-05-10,30,"Snack","Rahul S:
+Masala Chana=30"
+"502","May",2014-05-12,15,"Snack","Rahul S:
+Lassi=15"
+"512","May",2014-05-14,30,"Snack","Rahul S:
+Masala Chana=30"
+"524","May",2014-05-19,30,"Snack","Rahul S:
+Masala Chana=30"
+"534","May",2014-05-20,30,"Snack","Rahul S:
+Masala Chana=30"
+"594","May",2014-05-03,130,"Socializing","Rahul S:
+Amitabh Fruit=100
+Khanna pepsi=30"
+"604","May",2014-05-06,30,"Socializing","Rahul S:
+Lassi with Rajiv=30"
+"614","May",2014-05-11,267,"Socializing","Rahul S:
+Starbucks with Viji=267"
+"623","May",2014-05-15,150,"Socializing","Rahul S:
+Chilli Mushroom=150"
+"634","May",2014-05-16,215,"Socializing","Rahul S:
+Paneer=70
+Ice-cream=100
+Dahi=45"
+"643","May",2014-05-18,180,"Socializing","Rahul S:
+Honey Chilli=80
+Swimming=100"
+"723","May",2014-05-03,350,"Misc","Rahul S:
+Mobile recharge=150
+Token Amount=200"
+"732","May",2014-05-11,-60,"Misc","Rahul S:
+From Book Store=-60"
+"741","May",2014-05-13,135,"Misc","Rahul S:
+Mobile Recharge=135
+"
+"752","May",2014-05-15,80,"Misc","Rahul S:
+Kharbuja=60
+Top Ramen=20"
+"763","May",2014-05-17,50,"Misc","Rahul S:
+Helmet=50"
+"773","May",2014-05-18,100,"Misc","Rahul S:
+Petrol=100"
+"783","May",2014-05-20,100,"Misc","Rahul S:
+Petrol=100"
+"86","May",2014-05-03,34,"NA Meeting","Rahul S:
+WOC=34"
+"872","May",2014-05-04,60,"NA Meeting","Rahul S:
+BOR=30
+ASC=30"
+"88","May",2014-05-05,20,"NA Meeting","Rahul S:
+Winds of Change=20"
+"891","May",2014-05-07,9,"NA Meeting","Rahul S:
+WOC=9"
+"901","May",2014-05-08,30,"NA Meeting","Rahul S:
+BOR=30"
+"912","May",2014-05-11,20,"NA Meeting","Rahul S:
+BOR=20"
+"922","May",2014-05-17,50,"NA Meeting","Rahul S:
+Winds OC=50"
+"931","May",2014-05-18,30,"NA Meeting","Rahul S:
+BOR=15"
+"101","May",2014-05-08,200,"After Meeting","Rahul S:
+Gautam's Dinner=200"
+"1022","May",2014-05-11,175,"After Meeting","Rahul S:
+CCD After meeting=175"
+"1033","May",2014-05-17,289,"After Meeting","Rahul S:
+With Subodh=289"
+"1112","May",2014-05-01,30,"Transport","Rahul S:
+Bus to work=15
+Bus from work=15"
+"1122","May",2014-05-02,30,"Transport","Rahul S:
+Bus to work=15
+Bus from Work=15"
+"1133","May",2014-05-03,40,"Transport","Rahul S:
+Bus to Sec-1=15
+Bus from Sec-1=25"
+"1142","May",2014-05-05,40,"Transport","Rahul S:
+Bus to Work=15
+Bus from Work=25"
+"1152","May",2014-05-06,40,"Transport","Rahul S:
+Bus to Work=15
+Bus from Work=25"
+"1161","May",2014-05-07,35,"Transport","Rahul S:
+Bus to Work=20
+Bus from work=15"
+"1173","May",2014-05-08,15,"Transport","Rahul S:
+Bus to work=15"
+"1181","May",2014-05-09,30,"Transport","Rahul S:
+Bus to Work=15
+Bus from work=15"
+"1191","May",2014-05-10,15,"Transport","Rahul S:
+Bus to Work=15"
+"120","May",2014-05-11,15,"Transport","Rahul S:
+Bus to MC=15"
+"121","May",2014-05-12,10,"Transport","Rahul S:
+Bus home=10"
+"1222","May",2014-05-13,10,"Transport","Rahul S:
+Bus to work=10
+"
+"1232","May",2014-05-15,80,"Transport","Rahul S:
+Auto to work=70
+Bus home=10"
+"124","May",2014-05-17,25,"Transport","Rahul S:
+Bus to AIIMS=15
+Bus to Aur mark=10"
+"1251","May",2014-05-18,15,"Transport","Rahul S:
+Bus to S. Ex=15"
+"1261","May",2014-05-19,15,"Transport","Rahul S:
+Bus to Sec 1=15"
+"1272","May",2014-05-20,10,"Transport","Rahul S:
+Bus Home=10"
+"1342","May",2014-05-04,100,"Lending","Rahul S:
+Metro Recharge=100"
+"1353","May",2014-05-05,-800,"Lending","Rahul S:
+From Sanjay=-200
+From Ashish=-600"
+"1363","May",2014-05-06,200,"Lending","Rahul S:
+Returned to Sanjay=200"
+"1374","May",2014-05-08,-40,"Lending","Rahul S:
+From Chane wala=-40"
+"1384","May",2014-05-10,600,"Lending","Rahul S:
+Returned to Ashish=600"
+"1393","May",2014-05-11,0,"Lending","Rahul S:
+From Mom=-20
+To Mom=20"
+"1432","May",2014-05-01,30,"Food","Rahul S:
+Choclate Milk=30"
+"1442","May",2014-05-05,70,"Food","Rahul S:
+B'fast=70"
+"1453","May",2014-05-07,200,"Food","Rahul S:
+Biryani=100
+Kadai Ch=100"
+"1463","May",2014-05-10,80,"Food","Rahul S:
+Biryani=80"
+"1472","May",2014-05-17,60,"Food","Rahul S:
+Biryani=60"
+"1481","May",2014-05-19,60,"Food","Rahul S:
+Biryani=60"
+"32","Sep",2014-09-04,300,"Grooming","Rahul S:
+Shave and Haircut=100
+Deo=200"
+"33","Sep",2014-09-11,30,"Grooming","Rahul S:
+Shave=30"
+"373","Sep",2014-09-10,40,"Health and Hygeine","Rahul S:
+Toothpaste=40"
+"381","Sep",2014-09-11,110,"Health and Hygeine","Rahul S:
+Sugar Test@Dr. Lal=80
+Sugar Test@ Chemist=30"
+"391","Sep",2014-09-18,63,"Health and Hygeine","Rahul S:
+Goodnight Refil=63"
+"433","Sep",2014-09-05,100,"Snack","Rahul S:
+Sudeep Momos=100"
+"444","Sep",2014-09-06,-100,"Snack","Rahul S:
+Refund from Sudeep - 5/9/14=-100"
+"454","Sep",2014-09-08,45,"Snack","Rahul S:
+Mixed Veg Roll=45"
+"465","Sep",2014-09-09,45,"Snack","Rahul S:
+Mixed Veg Roll=45"
+"474","Sep",2014-09-10,25,"Snack","Rahul S:
+Veg Roll=25"
+"484","Sep",2014-09-11,10,"Snack","Rahul S:
+Top Ramen=10"
+"492","Sep",2014-09-15,30,"Snack","Rahul S:
+Top Ramen=10
+Juice=20"
+"503","Sep",2014-09-18,20,"Snack","Rahul S:
+Apple Drink@N Sec 15 Metro=20"
+"513","Sep",2014-09-19,30,"Snack","Rahul S:
+Kurkure=10
+Water=20"
+"574","Sep",2014-09-07,500,"Socializing","Rahul S:
+Mom Dinner=500"
+"595","Sep",2014-09-11,1000,"Socializing","Rahul S:
+Sutra Café=1000"
+"605","Sep",2014-09-13,-65,"Socializing","Rahul S:
+Dinner Ashish=-65"
+"615","Sep",2014-09-15,100,"Socializing","Rahul S:
+Juice for Team=100"
+"692","Sep",2014-09-04,150,"Misc","Rahul S:
+DDA Form=150"
+"701","Sep",2014-09-06,790,"Misc","Rahul S:
+Label Sheets=290
+To Harsh for tape=500"
+"712","Sep",2014-09-07,160,"Misc","Rahul S:
+Register=160"
+"724","Sep",2014-09-08,-350,"Misc","Rahul S:
+From Harsh for Tape=-350"
+"733","Sep",2014-09-18,-490,"Misc","Rahul S:
+For the dispatch day=-490"
+"742","Sep",2014-09-19,270,"Misc","Rahul S:
+Books for Neville=270"
+"822","Sep",2014-09-04,20,"NA Meeting","Rahul S:
+BOR=20"
+"831","Sep",2014-09-05,200,"NA Meeting","Rahul S:
+Metro to/from Shivaji Park=200"
+"841","Sep",2014-09-09,20,"NA Meeting","Rahul S:
+BOR=20"
+"85","Sep",2014-09-12,10,"NA Meeting","Rahul S:
+Survivors=10"
+"861","Sep",2014-09-14,10,"NA Meeting","Rahul S:
+BOR=10"
+"873","Sep",2014-09-16,20,"NA Meeting","Rahul S:
+Survivors=20"
+"881","Sep",2014-09-18,20,"NA Meeting","Rahul S:
+BOR=20"
+"892","Sep",2014-09-19,30,"NA Meeting","Rahul S:
+Freedom=30"
+"974","Sep",2014-09-12,328,"After Meeting","Rahul S:
+Dinner with Ashish=328"
+"983","Sep",2014-09-15,40,"After Meeting","Rahul S:
+Resteraunt w/Kundan=20
+CNG=20"
+"1063","Sep",2014-09-11,350,"Transport","Rahul S:
+Rickshaw to Golak Dham=30
+Auto-Kapashera to Sutra=70
+Auto-Sutra to Kapashera=100
+Auto-Kapashera to Dw 1=150"
+"1073","Sep",2014-09-12,10,"Transport","Rahul S:
+Cab to dw 1=10"
+"1082","Sep",2014-09-14,25,"Transport","Rahul S:
+Bus Aganj to Nplace=5
+Nplace to Dsec1=20"
+"1094","Sep",2014-09-15,20,"Transport","Rahul S:
+DW1 to SDA=20"
+"1102","Sep",2014-09-16,15,"Transport","Rahul S:
+Bus to NP=15"
+"1113","Sep",2014-09-18,165,"Transport","Rahul S:
+Rick to Gdham=30
+Auto to Sec 62=60
+Auto to Nsec 15=15
+Auto to RP chowk=60"
+"1123","Sep",2014-09-19,205,"Transport","Rahul S:
+AP Ex to Spark=100
+Metro Recharge=100
+Bus back=5"
+"1192","Sep",2014-09-04,-50,"Lending","Rahul S:
+From Pal Sir=-50"
+"1201","Sep",2014-09-10,-3500,"Lending","Rahul S:
+From Harsh=-3500"
+"1211","Sep",2014-09-18,-100,"Lending","Rahul S:
+Paid for Lunch by Rajiv=-100"
+"1252","Sep",2014-09-08,50,"Food","Rahul S:
+Ch. Biryani=50"
+"1262","Sep",2014-09-16,75,"Food","Rahul S:
+Milk=15
+Thali=60"
+"1273","Sep",2014-09-17,560,"Food","Rahul S:
+Top Ramen=10
+McDonalds(office)=550"
+"1282","Sep",2014-09-18,10,"Food","Rahul S:
+Lunch=10"
+"15","Oct",2014-10-24,130,"Grooming and Health","Rahul S:
+Azax 500 x2 = 130"
+"16","Oct",2014-10-27,500,"Grooming and Health","Rahul S:
+Doctor UC Gulati=500"
+"20","Oct",2014-10-22,10,"Snack","Rahul S:
+Navrattan Mix = 10"
+"21","Oct",2014-10-23,50,"Snack","Rahul S:
+Water=20
+Top Ramen=20
+Perk=10"
+"22","Oct",2014-10-24,1,"Snack","Rahul S:
+Toffee = 1"
+"23","Oct",2014-10-25,28,"Snack","Rahul S:
+Water=18
+Chips=10"
+"24","Oct",2014-10-27,60,"Snack","Rahul S:
+Kurkure=10
+Lemon=10
+Momos=20
+Juice=20"
+"25","Oct",2014-10-28,30,"Snack","Rahul S:
+Kathi Roll@RK Ashram=30"
+"331","Oct",2014-10-22,10,"Misc","Rahul S:
+To Auto for Diwali=10"
+"374","Oct",2014-10-22,20,"NA Meeting","Rahul S:
+WOC=20"
+"382","Oct",2014-10-23,10,"NA Meeting","Rahul S:
+BOR=10"
+"392","Oct",2014-10-24,10,"NA Meeting","Rahul S:
+Survivors=10"
+"402","Oct",2014-10-25,20,"NA Meeting","Rahul S:
+Navyug School=20"
+"413","Oct",2014-10-26,40,"NA Meeting","Rahul S:
+BOR=20
+SVP=20"
+"455","Oct",2014-10-22,100,"After Meeting","Rahul S:
+With Popeye=100"
+"466","Oct",2014-10-24,140,"After Meeting","Rahul S:
+Mojito=140"
+"475","Oct",2014-10-26,80,"After Meeting","Rahul S:
+With Ashish=80"
+"544","Oct",2014-10-22,500,"Domestic","Rahul S:
+To Mom for Diwali=500"
+"554","Oct",2014-10-27,60,"Domestic","Rahul S:
+Apples=60"
+"596","Oct",2014-10-22,250,"Transport","Rahul S:
+Metro Recharge=200
+Auto to meeting=50"
+"606","Oct",2014-10-26,200,"Transport","Rahul S:
+Petrol=200"
+"616","Oct",2014-10-27,20,"Transport","Rahul S:
+Bus to Sadar Bazar=10
+Bus from Sadar bazar=10"
+"624","Oct",2014-10-28,10,"Transport","Rahul S:
+Auto to Viji=10"
+"29","Nov",2014-11-08,80,"Grooming and Health","Rahul S:
+Pan 40 and Metrogyl 400=80"
+"30","Nov",2014-11-12,40,"Grooming and Health","Rahul S:
+Clavam 625x2=40"
+"31","Nov",2014-11-13,85,"Grooming and Health","Rahul S:
+Clavam x4=85"
+"321","Nov",2014-11-14,100,"Grooming and Health","Rahul S:
+Stitches removal=100"
+"332","Nov",2014-11-20,2500,"Grooming and Health","Rahul S:
+Blue Blazer=2500"
+"34","Nov",2014-11-24,300,"Grooming and Health","Rahul S:
+UC Gulati=300"
+"351","Nov",2014-11-25,10,"Grooming and Health","Rahul S:
+Watch pin=10"
+"363","Nov",2014-11-26,10,"Grooming and Health","Rahul S:
+That Jyot thing=10"
+"375","Nov",2014-11-28,30,"Grooming and Health","Rahul S:
+Soap and Condoms=30"
+"414","Nov",2014-11-12,15,"Snack","Rahul S:
+Kachodi=15"
+"423","Nov",2014-11-25,40,"Snack","Rahul S:
+Top Ramen x 4=40"
+"434","Nov",2014-11-26,60,"Snack","Rahul S:
+Green Tea=60"
+"476","Nov",2014-11-07,230,"Socializing","Rahul S:
+Gautam & Co.=30
+Mom for ations=200"
+"485","Nov",2014-11-08,594,"Socializing","Rahul S:
+Interstellar=594"
+"493","Nov",2014-11-15,200,"Socializing","Rahul S:
+After Meetup=200"
+"504","Nov",2014-11-16,385,"Socializing","Rahul S:
+Lunch w/Viji=200
+Starbucks w/Viji=185"
+"514","Nov",2014-11-22,1240,"Socializing","Rahul S:
+Nigar's function=1200
+Desert w/Viji=40"
+"525","Nov",2014-11-23,280,"Socializing","Rahul S:
+To Das for Pizza=200
+Mountain Dew=80"
+"535","Nov",2014-11-27,230,"Socializing","Rahul S:
+Tandoori Ch w/Varun=200
+Tea w/Varun=30"
+"545","Nov",2014-11-28,325,"Socializing","Rahul S:
+M. Dew=35
+Shawarma=290"
+"555","Nov",2014-11-30,190,"Socializing","Rahul S:
+Lunch w/Das=190"
+"597","Nov",2014-11-16,30,"Misc","Rahul S:
+Parking@Nizam=30"
+"607","Nov",2014-11-22,50,"Misc","Rahul S:
+Mango Bite=50"
+"617","Nov",2014-11-29,100,"Misc","Rahul S:
+Petrol Viji=100"
+"653","Nov",2014-11-10,20,"NA Meeting","Rahul S:
+WOC=20"
+"664","Nov",2014-11-12,20,"NA Meeting","Rahul S:
+WOC=20"
+"673","Nov",2014-11-13,10,"NA Meeting","Rahul S:
+BOR=10"
+"684","Nov",2014-11-14,70,"NA Meeting","Rahul S:
+Conv meeting=50
+Freedom=20"
+"693","Nov",2014-11-15,20,"NA Meeting","Rahul S:
+WOC=20"
+"702","Nov",2014-11-16,10,"NA Meeting","Rahul S:
+SVP=10"
+"713","Nov",2014-11-18,10,"NA Meeting","Rahul S:
+Survivors=10"
+"725","Nov",2014-11-19,5,"NA Meeting","Rahul S:
+Survivors=5"
+"734","Nov",2014-11-20,20,"NA Meeting","Rahul S:
+BOR=20"
+"743","Nov",2014-11-21,20,"NA Meeting","Rahul S:
+Freedom=20"
+"753","Nov",2014-11-24,20,"NA Meeting","Rahul S:
+Workshop=20"
+"764","Nov",2014-11-25,15,"NA Meeting","Rahul S:
+BOR=15"
+"774","Nov",2014-11-30,30,"NA Meeting","Rahul S:
+SVP=30"
+"812","Nov",2014-11-09,130,"After Meeting","Rahul S:
+Mc Donalds=130"
+"823","Nov",2014-11-11,240,"After Meeting","Rahul S:
+Assam Tea=100
+Choc Cake=140"
+"832","Nov",2014-11-12,60,"After Meeting","Rahul S:
+Ch. Momos=40
+Juice=20"
+"842","Nov",2014-11-14,18,"After Meeting","Rahul S:
+Kachodi=18"
+"851","Nov",2014-11-15,228,"After Meeting","Rahul S:
+With Sanjeet=228"
+"862","Nov",2014-11-16,130,"After Meeting","Rahul S:
+Mojito=130"
+"874","Nov",2014-11-18,40,"After Meeting","Rahul S:
+Ch. Momos=40"
+"882","Nov",2014-11-20,50,"After Meeting","Rahul S:
+Ch. Roll=50"
+"893","Nov",2014-11-21,18,"After Meeting","Rahul S:
+Kachodi=18"
+"902","Nov",2014-11-29,10,"After Meeting","Rahul S:
+Lays with Rajeev=10"
+"913","Nov",2014-11-30,80,"After Meeting","Rahul S:
+Dahi chaat w/Subodh=80"
+"952","Nov",2014-11-08,738,"Business","Rahul S:
+Phone Bill=738"
+"962","Nov",2014-11-25,500,"Business","Rahul S:
+TFC Cable=500"
+"975","Nov",2014-11-29,175,"Business","Rahul S:
+Toffee for TFC=175"
+"1011","Nov",2014-11-10,50,"Domestic","Rahul S:
+Dal for Mom=50"
+"1023","Nov",2014-11-11,232,"Domestic","Rahul S:
+Butter+Dahi=232"
+"1034","Nov",2014-11-13,100,"Domestic","Rahul S:
+Petrol=100"
+"1043","Nov",2014-11-18,70,"Domestic","Rahul S:
+Mom's Aata=30
+Oranges=40"
+"1052","Nov",2014-11-19,182,"Domestic","Rahul S:
+Clothes=24
+Mayo-158"
+"1064","Nov",2014-11-20,30,"Domestic","Rahul S:
+2kg Oranges=30"
+"1074","Nov",2014-11-21,100,"Domestic","Rahul S:
+Petrol=100"
+"1083","Nov",2014-11-22,200,"Domestic","Rahul S:
+Petrol=200"
+"1124","Nov",2014-11-09,100,"Transport","Rahul S:
+Metro recharge=100"
+"1134","Nov",2014-11-11,20,"Transport","Rahul S:
+To Kunal's House=10
+From K's house=10"
+"1143","Nov",2014-11-12,100,"Transport","Rahul S:
+Metro recharge=100"
+"1153","Nov",2014-11-15,140,"Transport","Rahul S:
+Bus to KSB=15
+Bus to NP=15
+Bus to IIT=10
+Metro RC=100"
+"1162","Nov",2014-11-16,10,"Transport","Rahul S:
+Bus to SVP=10"
+"1174","Nov",2014-11-18,15,"Transport","Rahul S:
+Bus to UN=15"
+"1182","Nov",2014-11-21,100,"Transport","Rahul S:
+Metro recharge=100"
+"1193","Nov",2014-11-23,125,"Transport","Rahul S:
+Bus to HK=15
+Auto to Manghani's=10
+Metro RC=100"
+"1202","Nov",2014-11-24,30,"Transport","Rahul S:
+Bus to UC Gulati=10
+Bus from UC Gul=20"
+"1212","Nov",2014-11-28,120,"Transport","Rahul S:
+Metro R/c=100
+Auto to Viji=20"
+"1253","Nov",2014-11-09,130,"Lending","Rahul S:
+Aakash's food=130"
+"1263","Nov",2014-11-14,-4,"Lending","Rahul S:
+Balance 4 rs to dhaba wala=-4"
+"1274","Nov",2014-11-15,0,"Lending","Rahul S:
+RAM change=1350
+
+Returned on 7/12/14 by ASC=-1350"
+"1283","Nov",2014-11-29,-900,"Lending","Rahul S:
+Lent to Viji=1100
+Returned by Harsh=-2000"
+"1323","Nov",2014-11-14,74,"Food","Rahul S:
+Dal and Roti=74"
+"1364","Nov",2014-11-17,150,"Leisure","Rahul S:
+Silk Choclate=150"
+"364","Dec",2014-12-01,500,"Grooming and Health","Rahul S:
+UC Gulati=500"
+"376","Dec",2014-12-11,23,"Grooming and Health","Rahul S:
+Bicasol=23"
+"383","Dec",2014-12-12,50,"Grooming and Health","Rahul S:
+Haircut=50"
+"393","Dec",2014-12-15,650,"Grooming and Health","Rahul S:
+UCG=650"
+"403","Dec",2014-12-22,350,"Grooming and Health","Rahul S:
+Antibiotics=350"
+"415","Dec",2014-12-24,1020,"Grooming and Health","Rahul S:
+Face Mask=390
+Face Foam=630"
+"424","Dec",2014-12-28,70,"Grooming and Health","Rahul S:
+Augpen=70"
+"435","Dec",2014-12-30,140,"Grooming and Health","Rahul S:
+Sortet Capsules=140"
+"477","Dec",2014-12-03,10,"Snack","Rahul S:
+Choclate=10"
+"486","Dec",2014-12-04,10,"Snack","Rahul S:
+Peanuts=10"
+"494","Dec",2014-12-07,60,"Snack","Rahul S:
+Kurkure=10
+Orange Juice=20
+Ch. Soup=30"
+"505","Dec",2014-12-09,30,"Snack","Rahul S:
+Corn=30"
+"515","Dec",2014-12-18,10,"Snack","Rahul S:
+Munch=10"
+"526","Dec",2014-12-21,20,"Snack","Rahul S:
+Gol Gappas=20"
+"536","Dec",2014-12-23,70,"Snack","Rahul S:
+Masala Chap=70"
+"546","Dec",2014-12-28,10,"Snack","Rahul S:
+Choclate=10"
+"556","Dec",2014-12-29,10,"Snack","Rahul S:
+Chips=10"
+"598","Dec",2014-12-01,50,"Socializing","Rahul S:
+O'yes and Muffins=50"
+"608","Dec",2014-12-03,100,"Socializing","Rahul S:
+Moolchand w/Das=100"
+"618","Dec",2014-12-05,60,"Socializing","Rahul S:
+Oranges for Amitabh=60"
+"625","Dec",2014-12-06,55,"Socializing","Rahul S:
+Coke for Das=55"
+"635","Dec",2014-12-10,200,"Socializing","Rahul S:
+Ice cream w/Sridhar=200"
+"644","Dec",2014-12-12,104,"Socializing","Rahul S:
+Samosa+Jalebi=40
+Roti=54
+Tomato=10"
+"654","Dec",2014-12-13,100,"Socializing","Rahul S:
+To Prashant=100"
+"665","Dec",2014-12-14,67,"Socializing","Rahul S:
+Das Handwash=67"
+"674","Dec",2014-12-19,360,"Socializing","Rahul S:
+CP with Lakha=360"
+"685","Dec",2014-12-20,130,"Socializing","Rahul S:
+Lunch w/Viji=100
+Gol Gappas w/Das=30"
+"694","Dec",2014-12-22,60,"Socializing","Rahul S:
+With Bhupi=60"
+"703","Dec",2014-12-25,1000,"Socializing","Rahul S:
+Dinner w/Das=1000"
+"714","Dec",2014-12-27,229,"Socializing","Rahul S:
+B'fast with Viji=99
+Nizamuddin Lunch=130"
+"754","Dec",2014-12-01,20,"Misc","Rahul S:
+Pickle=20"
+"765","Dec",2014-12-04,35,"Misc","Rahul S:
+Besan=35"
+"775","Dec",2014-12-06,150,"Misc","Rahul S:
+Charger Repair=150"
+"784","Dec",2014-12-07,5,"Misc","Rahul S:
+Sulabh Potty=5"
+"792","Dec",2014-12-14,5,"Misc","Rahul S:
+Sulabh Potty=5"
+"803","Dec",2014-12-29,1000,"Misc","Rahul S:
+DSP Blackrock=1000"
+"843","Dec",2014-12-02,10,"NA Meeting","Rahul S:
+Survivors=10"
+"852","Dec",2014-12-04,20,"NA Meeting","Rahul S:
+WOC=20"
+"863","Dec",2014-12-05,20,"NA Meeting","Rahul S:
+Convention Meeting=20"
+"875","Dec",2014-12-08,30,"NA Meeting","Rahul S:
+WOC=30"
+"883","Dec",2014-12-10,20,"NA Meeting","Rahul S:
+Survivors=20"
+"894","Dec",2014-12-11,50,"NA Meeting","Rahul S:
+Samarpan=50"
+"903","Dec",2014-12-14,26,"NA Meeting","Rahul S:
+Coda=20
+SVP NA=6"
+"914","Dec",2014-12-17,50,"NA Meeting","Rahul S:
+Navyug=50"
+"923","Dec",2014-12-18,30,"NA Meeting","Rahul S:
+BOR=30"
+"932","Dec",2014-12-19,50,"NA Meeting","Rahul S:
+Freedom=50"
+"943","Dec",2014-12-20,100,"NA Meeting","Rahul S:
+WOC=100"
+"953","Dec",2014-12-21,10,"NA Meeting","Rahul S:
+Navyug School=10"
+"99","Dec",2014-12-02,200,"After Meeting","Rahul S:
+With Wendy=200"
+"100","Dec",2014-12-07,18,"After Meeting","Rahul S:
+Kachodi=18"
+"1012","Dec",2014-12-08,80,"After Meeting","Rahul S:
+With Gautam=50
+Veg Roll=30"
+"1024","Dec",2014-12-10,20,"After Meeting","Rahul S:
+Gol Gappas=20"
+"1035","Dec",2014-12-13,35,"After Meeting","Rahul S:
+Kachodi=35"
+"1044","Dec",2014-12-14,93,"After Meeting","Rahul S:
+Green Tea w/Alka=93"
+"1065","Dec",2014-12-16,60,"After Meeting","Rahul S:
+Veg Roll=50
+Laddoo=10"
+"1075","Dec",2014-12-17,5,"After Meeting","Rahul S:
+Kurkure=5"
+"1084","Dec",2014-12-19,36,"After Meeting","Rahul S:
+Kachodi x2=36"
+"1095","Dec",2014-12-20,-100,"After Meeting","Rahul S:
+From Kundan=-100"
+"1103","Dec",2014-12-31,740,"After Meeting","Rahul S:
+Potatoes=40
+Party=700"
+"1144","Dec",2014-12-08,805,"Business","Rahul S:
+Mobile Bill=805"
+"1154","Dec",2014-12-11,1520,"Business","Rahul S:
+Microsoft Keyboard=1520"
+"1163","Dec",2014-12-12,30,"Business","Rahul S:
+Brooklyn Bridge prints=30"
+"1203","Dec",2014-12-05,130,"Domestic","Rahul S:
+Mixed Juice x2=130"
+"1213","Dec",2014-12-06,350,"Domestic","Rahul S:
+Newspaper Bill=150
+Butter=200"
+"1223","Dec",2014-12-11,400,"Domestic","Rahul S:
+Dal Makhani=50
+Flour for Mom=350"
+"1233","Dec",2014-12-14,100,"Domestic","Rahul S:
+Fruits=100"
+"1241","Dec",2014-12-15,50,"Domestic","Rahul S:
+TR Scoopies x 5=50"
+"1254","Dec",2014-12-22,100,"Domestic","Rahul S:
+Petrol=100"
+"1264","Dec",2014-12-26,38,"Domestic","Rahul S:
+Milk=38"
+"1275","Dec",2014-12-30,300,"Domestic","Rahul S:
+Aata=300"
+"1314","Dec",2014-12-01,220,"Transport","Rahul S:
+Bus to UCG=10
+Bus from UCG=10
+Petrol=200"
+"1324","Dec",2014-12-02,100,"Transport","Rahul S:
+Metro Recharge=100"
+"1333","Dec",2014-12-04,200,"Transport","Rahul S:
+Petrol=200"
+"1343","Dec",2014-12-06,105,"Transport","Rahul S:
+Bus to DC=5
+Metro RC=100"
+"1354","Dec",2014-12-09,100,"Transport","Rahul S:
+Metro Recharge=100"
+"1365","Dec",2014-12-10,10,"Transport","Rahul S:
+Bus to UN=10"
+"1375","Dec",2014-12-12,210,"Transport","Rahul S:
+Metro R/c=200
+594 to Jasola=5
+Auto to Jamia=5"
+"1385","Dec",2014-12-14,10,"Transport","Rahul S:
+IIT to SE1=5
+SE1 to IIT=5"
+"1394","Dec",2014-12-15,30,"Transport","Rahul S:
+Bus to UCG=20
+Bus to UN=10"
+"1403","Dec",2014-12-17,100,"Transport","Rahul S:
+Metro Recharge=100"
+"1412","Dec",2014-12-20,70,"Transport","Rahul S:
+Auto to Nizamuddin=20
+Auto to S Ex=50"
+"1423","Dec",2014-12-21,200,"Transport","Rahul S:
+Metro Recharge=200"
+"1433","Dec",2014-12-28,45,"Transport","Rahul S:
+Viji to NP=10
+NP to SVP=15
+IIT to DM=15
+DM to UN=5"
+"1443","Dec",2014-12-29,100,"Transport","Rahul S:
+Petrol=100"
+"1454","Dec",2014-12-30,200,"Transport","Rahul S:
+Metro Recharge=200"
+"1492","Dec",2014-12-08,30,"Lending","Rahul S:
+Gautam=30 from Sec 10"
+"1502","Dec",2014-12-21,30,"Lending","Rahul S:
+To Sabu=50
+From Kundan=-20"
+"1544","Dec",2014-12-05,10,"Food","Rahul S:
+Tiger Biscuit=10"
+"1554","Dec",2014-12-21,110,"Food","Rahul S:
+Chowmein=70
+Water Bottle=20
+Aloo Patty=20"
+"1562","Dec",2014-12-26,90,"Food","Rahul S:
+Dosa=70
+Parantha=20"
+"1602","Dec",2014-12-06,500,"Leisure","Rahul S:
+NA Delhi Convention=500"

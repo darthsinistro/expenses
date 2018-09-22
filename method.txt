@@ -1,0 +1,48 @@
+1. Specify the input file in the same folder and the output df name
+2. use tidyxl to read the file.
+3. Convert unstructured data into structured form - Date, Category, Amount, Comments
+4. 
+
+
+10:39 AM 12/17/2017
+
+The tidyxl package has been upgraded, thus leading me to re-write the code. Might as well go the whole way. First of all, I won't want to get stuck on small problems. I will learn to deal with them later.
+
+1. Load entire dataset into R
+2. Transform it to get a lost of all cells with expenses - date and category, number, comments
+
+
+x. Calculate the category-wise sum for each day of the year
+x+1. Basis the original sheet, calculate the pro-rata projected expense for that category for that day
+	Month, Category, Planned Total, Planned Daily
+x+2. Calculate the difference
+x+3. Arrange the differences in descengind order and calculate cumilative sum of deviations
+x+4. Subset entries where cum dev <= 73000
+x.5. Take table of category in this max deviation
+
+
+10:19 PM 1/26/2018
+
+Now that the above is done, we're moving on to a RCA.
+
+
+12:29 PM 1/30/2018
+
+Now I want to write about my approach to the project.
+
+Load Expense Data into R - Data was stored in the form of an excel sheet with comments. The data is divided into categories which I create. Each month, I create a budget based on my overall ability, last month's expenses and my understanding of how my expenses will be like.
+
+Transform data into day-wise observations - Take individual expenses for each day in each category. Aggregate it for the day (category wise prorata doesn't work as well)
+Add features to each daily observation - Create a daily deviation from the daily pro-rata and %age of deviation to create a measure of relative and absolute deviation. Also create a cumilative expenses variable. Also assign a category to each day, which is the category in which the highst absolute expense took place that day.
+Explore Expense data and conclude cause of deviation - Look at a time based scatter plot of deviations, colored by category so as to give a visual representation of ongoing trends.
+Use word-cloud to increase awareness of excess spending
+
+
+
+11:44 AM 4/15/2018
+
+Now I want to start asking questions.
+
+1. Is there a general pattern that preceeds wasteful expenses?
+2. Are wasteful expenses isolated instances that cannot be predicted in advance or do they happen in clusters causing more damage together than individually?
+3. What is a wasteful expense anyway? - Date, month, time, day, amount, category, comment, deviation from prorata, abs deviation.
