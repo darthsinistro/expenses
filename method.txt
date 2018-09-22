@@ -48,4 +48,4 @@ Now I want to start asking questions.
 3. What is a wasteful expense anyway? - Date, month, time, day, amount, category, comment, deviation from prorata, abs deviation.
 
 
-###########Just making a small change. Can remove this later.
+###########Just making a small change. Can remove this later. As should this be
