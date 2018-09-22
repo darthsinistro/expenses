@@ -46,3 +46,6 @@ Now I want to start asking questions.
 1. Is there a general pattern that preceeds wasteful expenses?
 2. Are wasteful expenses isolated instances that cannot be predicted in advance or do they happen in clusters causing more damage together than individually?
 3. What is a wasteful expense anyway? - Date, month, time, day, amount, category, comment, deviation from prorata, abs deviation.
+
+
+###########Just making a small change. Can remove this later.
